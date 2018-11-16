@@ -1,7 +1,7 @@
 # GraphQL Data Fetching with Relay
 
 
-## ToDp
+## ToDo
 
 This readme file needs writing!!!
 
